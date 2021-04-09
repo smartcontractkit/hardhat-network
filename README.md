@@ -1,2 +1,2 @@
-# -deploy-hardhat
-Deploys a basic hardhat chain for testing
+# Deploy Hardhat
+Deploys a basic hardhat chain for CI testing purposes
