@@ -1,0 +1,5 @@
+name: 'Deploy Hardhat'
+description: 'Deploys a standard hardhat chain simulation'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
