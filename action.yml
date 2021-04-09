@@ -1,4 +1,5 @@
 name: 'Deploy Hardhat'
+author: smartcontractkit
 description: 'Deploys a standard hardhat chain simulation'
 runs:
   using: 'docker'
