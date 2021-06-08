@@ -1,6 +1,6 @@
 # Deploy Hardhat Network
 
-Docker container that deploys a basic hardhat network for local and CI testing. 
+Docker container that deploys a basic hardhat network for local and CI testing.
 
 ## How to Run
 
