@@ -1,5 +1,7 @@
 # Deploy Hardhat Network
 
+![Docker Pulls](https://img.shields.io/docker/pulls/smartcontract/hardhat-network) [Docker Hub](https://hub.docker.com/r/smartcontract/hardhat-network)
+
 Docker container that deploys a basic hardhat network for local and CI testing.
 
 ## How to Run
